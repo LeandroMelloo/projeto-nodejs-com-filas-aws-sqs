@@ -1,0 +1,23 @@
+{
+  "name": "projeto_nodejs_com_filas_aws_sqs",
+  "version": "1.0.0",
+  "description": "Projeto NodeJS com filas SQS na AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMelloo/projeto_nodejs_com_filas_aws_sqs.git"
+  },
+  "author": "Leandro Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroMelloo/projeto_nodejs_com_filas_aws_sqs/issues"
+  },
+  "homepage": "https://github.com/LeandroMelloo/projeto_nodejs_com_filas_aws_sqs#readme",
+  "dependencies": {
+    "aws-sdk": "^2.897.0",
+    "dotenv": "^8.2.0"
+  }
+}
